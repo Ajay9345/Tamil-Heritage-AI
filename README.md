@@ -1,3 +1,4 @@
+<img width="2776" height="1548" alt="Tamil Heritage AI" src="https://github.com/user-attachments/assets/896044d4-1e92-4da9-9c95-48f8a8204879" />
 Tamil Heritage AI
 
 Tamil Heritage AI is an AI-powered conversational assistant built using Retrieval-Augmented Generation (RAG) to help users explore Tamil history, literature, scripts, and cultural heritage through natural language queries.

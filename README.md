@@ -7,7 +7,7 @@ The system allows users to ask questions in simple language and receive context-
 🌐 Live Demo:
 👉 https://tamilheritage.streamlit.app
 
-Project Motivation
+📜 Project Motivation
 
 Tamil history and literature are rich but often scattered across academic websites, inscriptions, and literary sources. Accessing this knowledge usually requires:
 
@@ -25,7 +25,11 @@ Structuring it into a searchable knowledge base
 
 Providing an interactive chatbot for easy exploration
 
+📚 Data Source
+
 The primary data for this project is collected from:
 
 Tamil Virtual Academy (tamilvu.org)
 → Tamil Language & Literature sections
+
+The dataset includes content related to Tamil scripts, Sangam literature, poets, inscriptions, dynasties, and cultural themes.
